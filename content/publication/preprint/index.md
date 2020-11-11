@@ -3,7 +3,7 @@ title: "Symmetric Quantum Walk With Phase Transition Feature"
 authors:
 - Chun Wei Liu
 - Pei Chen Kuan
-date: "2019-04-07T00:00:00Z"
+date: "2020-12-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,8 +16,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Physics Review Meow"
+publication_short: "PR Meow"
 
 abstract: Compared with the conventional experimental realization of quantum walk, here we consider acase that the shift operator will transfer the qubit symmetrically in space. This new configurationmay help us get rid of possible asymmetric phase contribution in the experiment, and will result ina hybrid two-three states quantum walk. Similar to the three-state case, this symmetric quantumwalk shows a self-trapping feature. However, this phenomenon depends on how we adjust failingprobability as our parameter. There is a phase transition between globally developing quantum walkand self-trapping localized moving wavepackets. Here we will analyze this phenomenon and show arespectable approximated formula to determine the boundary between these two distinct features,and discuss the ways to implement it.
 
@@ -31,7 +31,7 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: #http://arxiv.org/pdf/1512.04133v1
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
