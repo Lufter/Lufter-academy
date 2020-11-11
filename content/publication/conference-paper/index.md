@@ -2,7 +2,7 @@
 title: "Design of Chiral Metamaterials via Deep Neural Networks"
 authors:
 - Yun‑Che Wang
-- **Chun** **Wei** **Liu**
+- Chun Wei Liu
 - Pei‑Chen Cheng
 - Jyun‑Ping Wang
 - Tsai‑Wen Ko

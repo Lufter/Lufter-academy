@@ -1,7 +1,7 @@
 ---
 title: "Symmetric Quantum Walk With Phase Transition Feature"
 authors:
-- **Chun** **Wei** **Liu**
+- Chun Wei Liu
 - Pei Chen Kuan
 date: "2019-04-07T00:00:00Z"
 doi: ""
