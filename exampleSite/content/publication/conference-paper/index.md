@@ -1,11 +1,8 @@
 ---
-title: "Design of Chiral Metamaterials via Deep Neural Networks"
+title: "An example conference paper"
 authors:
-- Yun‑Che Wang
-- Chun Wei Liu
-- Pei‑Chen Cheng
-- Jyun‑Ping Wang
-- Tsai‑Wen Ko
+- admin
+- Robert Ford
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
@@ -22,10 +19,10 @@ publication_types: ["1"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Metamaterials with highly human-influenced microstructure may exhibit unconventional physical properties, such as negative index of refraction (NIR), negative Poisson’s ratio (NPR), negative thermal expansion coefficient (NTEC), or deformation-mode couplings. The couplings between tension/compression and torsion or bending are intrinsically due to the intertwined internal degrees of freedom at each material point. Traditionally, the design of metamaterials relies on human experiences, such as the Edisonian methodology, based on the concept of trial and error. By using deep convolution neural networks, such as VGG, we have developed a methodology to create metamaterials with desired chiral microstructures, as shown in the flowchart below. Data consisting of microstructural image information and effective mechanical properties are prepared via finite element calculations. Generation of initial chiral samples for DNN training is based on a Markov chain process. Our DNN can be successfully trained to correlate the chiral microstructures and their effective mechanical properties. Creating samples via generative adversarial networks (GAN) or other strategies is discussed.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Discussed the use of VGG networks as an alternative of Finite Element Methods (FEM) when labeling mechanical properties of small size 2D microstructure geometries.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
