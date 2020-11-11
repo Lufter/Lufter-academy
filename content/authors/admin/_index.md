@@ -6,12 +6,12 @@ title: Lufter Chun Wei Liu
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: National Cheng Kung University
-  url: "https://web.ncku.edu.tw/index.php?Lang=en"
+- name: Matterwave Lab, National Cheng Kung University
+  url: "https://thelm2005.wixsite.com/website"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include quantum information, quantum computing, computer simulating physics.
