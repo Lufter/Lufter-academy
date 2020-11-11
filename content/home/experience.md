@@ -33,12 +33,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "R.A."
-  company = "Matterwave Lab"
+  title = "Professor"
+  company = "University X"
   company_url = ""
-  location = "Tainan, Taiwan"
-  date_start = "2019-07-01"
-  date_end = "Present"
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
