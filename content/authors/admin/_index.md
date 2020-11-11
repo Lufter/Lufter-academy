@@ -6,11 +6,11 @@ title: Lufter Chun Wei Liu
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Research Assistant, Matterwave Lab
 
 # Organizations/Affiliations
 organizations:
-- name: Matterwave Lab, National Cheng Kung University
+- name: National Cheng Kung University
   url: "https://thelm2005.wixsite.com/website"
 
 # Short bio (displayed in user profile at end of posts)
