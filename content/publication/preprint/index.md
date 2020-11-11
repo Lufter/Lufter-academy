@@ -1,7 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "Symmetric Quantum Walk With Phase Transition Feature"
 authors:
-- admin
+- **Chun** **Wei** **Liu**
+- Pei Chen Kuan
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -18,10 +19,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Compared with the conventional experimental realization of quantum walk, here we consider acase that the shift operator will transfer the qubit symmetrically in space. This new configurationmay help us get rid of possible asymmetric phase contribution in the experiment, and will result ina hybrid two-three states quantum walk. Similar to the three-state case, this symmetric quantumwalk shows a self-trapping feature. However, this phenomenon depends on how we adjust failingprobability as our parameter. There is a phase transition between globally developing quantum walkand self-trapping localized moving wavepackets. Here we will analyze this phenomenon and show arespectable approximated formula to determine the boundary between these two distinct features,and discuss the ways to implement it.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Observations of one-dimention disctete quantum walk.
 
 tags:
 - Source Themes
@@ -42,7 +43,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Lufter**](https://lufteracademy.netlify.app/)'
   focal_point: ""
   preview_only: false
 
