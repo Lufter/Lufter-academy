@@ -10,28 +10,23 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: National Cheng Kung University
+  url: "https://web.ncku.edu.tw/index.php?Lang=en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include quantum information, quantum computing, computer simulating physics.
+
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Quantum Computing
+- Quantum Information
+- Computer Simulating Physics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Civil Engineering
+    institution: National Cheng Kung University (NCKU)
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,24 +35,18 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: "mailto:e64069094@gs.ncku.edu.tw" # '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Lufter
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/lufter_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "e64069094@gs.ncku.edu.tw"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,6 +58,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The Shire once raised some valiant hearts, who seek to carry the burden and preserve their beloving world. I wish to have this courage in my future expedition to the temple of quantum science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I recieved my B.S. degree in [Civil Engineering department](http://www.civil.ncku.edu.tw/index.php?lang=en), National Cheng Kung University, Taiwan. I worked on my undergraduate research in [Physics department](http://www.phys.ncku.edu.tw/2012/en/) [MatterwaveLab](https://thelm2005.wixsite.com/website) with [Prof. Pei-Chen, Kuan](http://www.phys.ncku.edu.tw/db/pweb/teacher.php?user_id=170222) and AI MaterialLab with [Prof. Yun-Che, Wang](http://myweb.ncku.edu.tw/~yunche/).
