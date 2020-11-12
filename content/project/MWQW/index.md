@@ -2,7 +2,7 @@
 title: Multiple Way Quantum Walk
 summary: New obervation in quantum walk.
 tags:
-- quantum
+- Quantum
 date: "2019-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

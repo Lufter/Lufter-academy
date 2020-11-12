@@ -1,5 +1,5 @@
 ---
-title: Predicting Handwriting Recognition With Parametrized Quantum Circuit
+title: Predicting With Quantum Circuit
 summary: Implemented 4qubit‑Ry gate circuits in predicting MNIST dataset with the learning curve converged after ten iterations.
 tags:
 - Quantum
