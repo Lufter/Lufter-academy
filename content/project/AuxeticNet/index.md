@@ -2,7 +2,7 @@
 title: Auxetic Networks
 summary: Adapting pruning strategy to generate auxetic material.
 tags:
-- Material
+- Computational Material
 date: "2019-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
