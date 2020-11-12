@@ -30,15 +30,17 @@ date_format = "Jan 2006"
   
   * MULTIPLE WAY QUANTUM WALK (MWQW)
 
+
     * Discussed the error tolerance when implementing MWQW in optical systems by using analytical and numerical methods.
 
     * Deployed a computer program that simulates and visualizes MWQW, which enhanced our working efficiency.
 
     * Improved the defects in previous asymptotic analysis methods when implementing Schrödinger’s approach to MWQW.
-    
+
     * Presented the recursive relations in MWQW and its exit probability 𝑝∞ from an automation perspective.
 
   * SENSITIVE MEASUREMENTS THROUGH MATTER WAVES
+
 
     * Research on implementing double‑diffraction Bloch oscillation to cancel the phase perterbation when performing sensitive measurements.
   """
@@ -55,6 +57,7 @@ date_format = "Jan 2006"
 
   * MACHINE LEARNING IN MATERIAL DESIGN. [APCOM2019] [CTAM2020]
 
+
     * Applied generative adversarial networks (GAN) to generate high fidelity microstructure images.
 
     * Proposed regression VGG networks (rVGG) that can predict mechanical properties from material images with 95% accuracy.
@@ -64,6 +67,7 @@ date_format = "Jan 2006"
     * Investigated an Bayesian‑optimization model that can fine‑tune GAN‑generated microstructure geometry through the raid labeling of rVGG.
 
   * CONSTRUCTiNG HOMOGENOUS MATERIALS UNSING COMPUTATIONAL METHODS.
+  
   
     * Implemented pruning protocol on 96 core CPUs to generate auxetic networks inspired by [Auxetic metamaterials from disordered networks](https://www.pnas.org/content/115/7/E1384)
 
