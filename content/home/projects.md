@@ -25,23 +25,19 @@ subtitle = ""
      name = "All"
      tag = "*"
   
-   [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
-  
-   [[content.filter_button]]
-     name = "Material"
-     tag = "Material"
+  [[content.filter_button]]
+     name = "Computational Material"
+     tag = "Computational Material"
 
-   [[content.filter_button]]
+  [[content.filter_button]]
      name = "Quantum"
      tag = "Quantum"
 
-   [[content.filter_button]]
-     name = "Engineering"
-     tag = "Engineering"
+  [[content.filter_button]]
+     name = "Other"
+     tag = "Other"
 
-     
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
