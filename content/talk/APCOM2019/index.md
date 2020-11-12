@@ -37,11 +37,11 @@ links:
 - icon: file-powerpoint
   icon_pack: fas
   name: Slides
-  url: https://lufteracademy.netlify.app/static/files/ANN_APCOM2019F.pdf
+  url: https://lufter.github.io/files/ANN_APCOM2019F.pdf
 
 url_code: ""
 url_pdf: ""
-url_slides: "https://lufteracademy.netlify.app/static/files/ANN_APCOM2019F.pdf"
+url_slides: "https://lufter.github.io/files/ANN_APCOM2019F.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
