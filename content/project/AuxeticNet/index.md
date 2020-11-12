@@ -29,10 +29,14 @@ image:
 #slides: example
 ---
 
-Adapting pruning strategy to generate auxetic material from the grometry of packed moleculars. This project was implemented on the Google Could Service(GCP) with 96-core CPUs. The auxetic samples were ment to be one of the types in my machine learning dataset. This idea is inspired by Reid *etal.* [Auxetic metamaterials from disordered networks](https://www.pnas.org/content/115/7/E1384).
+Auxetic networks can achieve both homogenous and negtive poisson's ratio with very low density. One of the idea to generate this geometry is to adapt pruning strategy to disorder networks. By pruning out the bond that contributed least to shear modulus of the entire networks in each iteration, it is proved by Reid *etal.* [1]that the poisson's ration will slowly converge to a negetive value. We were able to implemented this idea on the Google Could Service(GCP) with 96-core CPUs. The auxetic samples were ment to be one of the types in my machine learning dataset. 
 
 What we have implemented:
 
 * Implemented pruning protocol on 96 core CPUs to generate auxetic networks.
 
 * Implemented a stochastic protocol to produce large scale homogenous microstructure datasets by two‑point correlation function.
+
+Reference
+
+[1] [Auxetic metamaterials from disordered networks](https://www.pnas.org/content/115/7/E1384)
