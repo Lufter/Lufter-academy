@@ -33,6 +33,6 @@ Adapting pruning strategy to generate auxetic material from the grometry of pack
 
 What we have implemented:
 
-＊　Implemented pruning protocol on 96 core CPUs to generate auxetic networks.
+* Implemented pruning protocol on 96 core CPUs to generate auxetic networks.
 
-＊　Implemented a stochastic protocol to produce large scale homogenous microstructure datasets by two‑point correlation function.
+* Implemented a stochastic protocol to produce large scale homogenous microstructure datasets by two‑point correlation function.
