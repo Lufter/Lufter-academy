@@ -1,5 +1,5 @@
 ---
-title: "Symmetric Quantum Walk With Phase Transition Feature"
+title: "Symmetric Quantum Walk With Phase Transition Feature (In preperation)"
 authors:
 - Chun Wei Liu
 - Pei Chen Kuan
