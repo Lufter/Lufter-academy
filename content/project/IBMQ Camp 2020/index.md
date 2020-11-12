@@ -12,12 +12,6 @@ image:
   caption: Photo by Team#10
   focal_point: Smart
 
-links:
-- icon: github-square
-  icon_pack: fas
-  name: codes
-  url: https://github.com/Lufter/IBMQcamp2020_VQE_team
-
 url_code: 'https://github.com/Lufter/IBMQcamp2020_VQE_team'
 ---
 * Implemented 4qubit‑Ry gate circuits in predicting MNIST dataset with the learning curve converged after ten iterations.
