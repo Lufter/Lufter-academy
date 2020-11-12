@@ -18,19 +18,19 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "python"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "atom"
   icon_pack = "fas"
   name = "Qiskit"
-  description = "90%"  
+  description = ""  
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Pytorch and Tensorflow"
-  description = "90%"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
