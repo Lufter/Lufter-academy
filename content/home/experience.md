@@ -59,10 +59,10 @@ date_format = "Jan 2006"
   # gradient_end = "SkyBlue"
   
   # Background image.
-   image = "matterwave.jpg"  
-   image_darken = 0.6  
+  # image = "matterwave.jpg"  
+  # image_darken = 0.6  
   # Name of image in `static/media/`.
   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # Text color (true=light or false=dark).
-   text_color_light = true  
+  # text_color_light = true  
 +++
