@@ -29,7 +29,7 @@ image:
 #slides: example
 ---
 
-Auxetic networks can achieve both homogenous and negtive poisson's ratio with very low density. One of the idea to generate this geometry is to adapt pruning strategy to disorder networks. By pruning out the bond that contributed least to shear modulus of the entire networks in each iteration, it is proved by Reid *etal.* [1]that the poisson's ration will slowly converge to a negetive value. We were able to implemented this idea on the Google Could Service(GCP) with 96-core CPUs. The auxetic samples were ment to be one of the types in my machine learning dataset. 
+Auxetic networks can achieve both homogenous and negtive poisson's ratio with very low density. One of the idea to generate this geometry is to adapt pruning strategy to disorder networks. By pruning out the bond that contributed least to shear modulus of the entire networks in each iteration, it is proved by Reid *etal.* [1]  that the poisson's ration will slowly converge to a negetive value. We were able to implemented this idea on the Google Could Service(GCP) with 96-core CPUs. The auxetic samples were ment to be one of the types in my machine learning dataset. 
 
 What we have implemented:
 
@@ -39,4 +39,4 @@ What we have implemented:
 
 Reference
 
-[1] [Auxetic metamaterials from disordered networks](https://www.pnas.org/content/115/7/E1384)
+[1] Daniel R. Reid, Nidhi Pashine, Justin M. Wozniak, Heinrich M. Jaeger, Andrea J. Liu, Sidney R. Nagel, Juan J. de Pablo, *[Auxetic metamaterials from disordered networks](https://www.pnas.org/content/115/7/E1384)*, Proceedings of the National Academy of Sciences Feb 2018, 115 (7) E1384-E1390; DOI: 10.1073/pnas.1717442115
