@@ -39,6 +39,6 @@ What we've done:
 
 * Improved the defects in previous asymptotic analysis methods when implementing Schrödinger’s approach to MWQW
 
-* Presented the recursive relations in MWQW and its exit probability 𝑝<sub>∞<／sub> from an automation perspective.
+* Presented the recursive relations in MWQW and its exit probability 𝑝<sub>∞</sub>　from an automation perspective.
 
  You can see all our results once we summit our works in the end of Dec 2020!
