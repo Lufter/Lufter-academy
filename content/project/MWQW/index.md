@@ -29,4 +29,16 @@ image:
 #slides: example
 ---
 
-We use computer to simulate quantum walks in optical systems. Our new walking protocol lead us to some intresting features that might never observed from previous studies. We then use schrödinger’s approach to explain this feature. Some characteristics in quantum walks were also discissed in our work, including exit probabilities, dispersion entries, and the recurrence relations. In the future, we will implent this work in optical lattice and find its applications in sesitive measutements. You can see all our results once we summit our works in the end of Dec 2020!
+We use computer to simulate quantum walks in optical systems. Our new walking protocol lead us to some intresting features that might never observed from previous studies. We then use schrödinger’s approach to explain this feature. Some characteristics in quantum walks were also discissed in our work, including exit probabilities, dispersion entries, and the recurrence relations. In the future, we will implent this work in optical lattice and find its applications in sesitive measutements.
+
+What we've done:
+
+* Discussed the error tolerance when implementing MWQW in optical systems by using analytical and numerical methods.
+
+* Deployed a computer program that simulates and visualizes MWQW, which enhanced our working efficiency.
+
+* Improved the defects in previous asymptotic analysis methods when implementing Schrödinger’s approach to MWQW
+
+* Presented the recursive relations in MWQW and its exit probability 𝑝<sub>∞ from an automation perspective.
+
+ You can see all our results once we summit our works in the end of Dec 2020!

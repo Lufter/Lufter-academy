@@ -16,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Physics Review Meow"
-publication_short: "PR Meow"
+publication: "Physics Review Meow (In preperation)"
+publication_short: "PR Meow (In preperation)"
 
-abstract: Compared with the conventional experimental realization of quantum walk, here we consider acase that the shift operator will transfer the qubit symmetrically in space. This new configurationmay help us get rid of possible asymmetric phase contribution in the experiment, and will result ina hybrid two-three states quantum walk. Similar to the three-state case, this symmetric quantumwalk shows a self-trapping feature. However, this phenomenon depends on how we adjust failingprobability as our parameter. There is a phase transition between globally developing quantum walkand self-trapping localized moving wavepackets. Here we will analyze this phenomenon and show arespectable approximated formula to determine the boundary between these two distinct features,and discuss the ways to implement it.
+abstract: Observations of one-dimention multiple way quantum walk.
 
 # Summary. An optional shortened abstract.
-summary: Observations of one-dimention disctete quantum walk.
+summary: Observations of one-dimention multiple way quantum walk.
 
 tags:
 - Source Themes

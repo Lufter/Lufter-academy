@@ -31,4 +31,14 @@ image:
 
 Labeling microstructure samples by Finite Element Methods (FEM) is time comsuming, thus it can be the bottle-neck of our design process. As a result, we apply our regression VGG networks (rVGG) to accelrate labeling microstructute images. This is one leap forward to improve our design strategy. With this new method, we were able to use Bayesian-optimization model as a black box function to update material geometry that generated my generative adversarial networks (GAN) more efficiently. Since rVGG reduced the the time that required when evaluating sample material properties, the optimization model can run more iteration in limited time.
 
+What we have done: 
+
+* Applied generative adversarial networks (GAN) to generate high fidelity microstructure images.
+
+* Proposed regression VGG networks (rVGG) that can predict mechanical properties from material images with 95% accuracy.
+
+* Outperformed Finite Element Methods (FEM) in predicting time over 100 times.
+
+* Investigated an Bayesian‑optimization model that can fine‑tune GAN‑generated microstructure geometry through the raid labeling of rVGG.
+
 For more information, please take a look at [Design of Chiral Metamaterials via Deep Neural Networks](https://lufteracademy.netlify.app/publication/conference-paper/).
