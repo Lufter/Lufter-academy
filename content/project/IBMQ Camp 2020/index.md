@@ -6,7 +6,7 @@ tags:
 date: "2020-09-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link:https://github.com/Lufter/IBMQcamp2020_VQE_team
+external_link: "https://github.com/Lufter/IBMQcamp2020_VQE_team"
 
 image:
   caption: Photo by Team#10
