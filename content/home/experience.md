@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://thelm2005.wixsite.com/website"
   location = "Tainan, Taiwan"
   date_start = "2019-07-01"
-  date_end = "2020-06-30"
+  date_end = ""
   description = """
   * Multiple Way Quantum Walk (MWQW). [[Link]](https://lufteracademy.netlify.app/project/mwqw/)
 
