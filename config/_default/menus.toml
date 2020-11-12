@@ -11,11 +11,16 @@
 [[main]]
   name = "Experience"
   url = "#experience"
-  weight = 40
+  weight = 20
 
 [[main]]
   name = "Honors"
   url = "#accomplishments"
+  weight = 30
+
+[[main]]
+  name = "Talks"
+  url = "#talks"
   weight = 40
 
 #[[main]]
@@ -26,12 +31,12 @@
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 50
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 40
+  weight = 60
 
 #[[main]]
 #  name = "Contact"
