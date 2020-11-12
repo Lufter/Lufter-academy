@@ -24,7 +24,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Civil Engineering (Courses* Physcis, Engineering, MSE, ECE) 
+  - course: BSc in Civil Engineering, Courses in Physcis, MSE, ECE 
     institution: National Cheng Kung University (NCKU)
     year: 2020
 
