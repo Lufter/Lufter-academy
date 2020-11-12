@@ -1,5 +1,5 @@
 ---
-title: Auxetic Network
+title: Auxetic Networks
 summary: Adapting pruning strategy to generate auxetic material.
 tags:
 - Material
