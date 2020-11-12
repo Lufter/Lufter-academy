@@ -19,9 +19,7 @@ publication_types: ["3"]
 publication: "Physics Review Meow (In preperation)"
 publication_short: "PR Meow (In preperation)"
 
-abstract: Observations and analysis of one-dimention multiple way quantum walk. 
-For more information, please view [Multiple Way Quantum Walk](https://lufteracademy.netlify.app/project/mwqw/)
-(To be summit in Dec 2020!)
+abstract:
 
 
 # Summary. An optional shortened abstract.
@@ -65,3 +63,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+Observations and analysis of one-dimention multiple way quantum walk. 
+For more information, please view [Multiple Way Quantum Walk](https://lufteracademy.netlify.app/project/mwqw/)
+(To be summit in Dec 2020!)
