@@ -26,18 +26,9 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = "2020-06-30"
   description = """
-  Multiple Way Quantum Walk (MWQW):
-    * Discussed the error tolerance when implementing MWQW in optical systems by using analytical and numerical methods.
+  * Multiple Way Quantum Walk (MWQW). [Link](https://lufteracademy.netlify.app/project/mwqw/)
 
-    * Deployed a computer program that simulates and visualizes MWQW, which enhanced our working efficiency.
-
-    * Improved the defects in previous asymptotic analysis methods when implementing Schrödinger’s approach to MWQW.
-
-    * Presented the recursive relations in MWQW and its exit probability 𝑝∞ from an automation perspective.
-
-  Sensitive Measurements Through Matter Waves
-
-    * Research on implementing double‑diffraction Bloch oscillation to cancel the phase perterbation when performing sensitive measurements.
+  * Sensitive Measurements Through Matter Waves
   """
 
 [[experience]]
@@ -49,21 +40,10 @@ date_format = "Jan 2006"
   date_end = "2020-06-30"
   description = """
 
-  Machine Learning in Material Design. [APCOM2019] [CTAM2020]
+  * Machine Learning in Material Design. [APCOM2019](https://lufteracademy.netlify.app/talk/apcom2019/) [CTAM2020](https://lufteracademy.netlify.app/publication/conference-paper/)
 
-    * Applied generative adversarial networks (GAN) to generate high fidelity microstructure images.
-
-    * Proposed regression VGG networks (rVGG) that can predict mechanical properties from material images with 95% accuracy.
-
-    * Outperformed Finite Element Methods (FEM) in predicting time over 100 times.
-
-    * Investigated an Bayesian‑optimization model that can fine‑tune GAN‑generated microstructure geometry through the raid labeling of rVGG.
-
-  Construcrting Homogenous Materials Using Vomputational Methods.
+  * Construcrting Homogenous Materials Using Computational Methods. [Linnk](https://lufteracademy.netlify.app/project/auxeticnet/)
     
-    * Implemented pruning protocol on 96 core CPUs to generate auxetic networks inspired by [Auxetic metamaterials from disordered networks](https://www.pnas.org/content/115/7/E1384)
-
-    * Implemented a stochastic protocol to produce large scale homogenous microstructure datasets by two‑point correlation function.
   """
 
 +++
