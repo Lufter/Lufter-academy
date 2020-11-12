@@ -26,10 +26,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = "2020-06-30"
   description = """
-  Responsibilities include:
-  
-  * Multiple Way Quantum Walk (MWQW)
-
+  Multiple Way Quantum Walk (MWQW):
     * Discussed the error tolerance when implementing MWQW in optical systems by using analytical and numerical methods.
 
     * Deployed a computer program that simulates and visualizes MWQW, which enhanced our working efficiency.
@@ -38,7 +35,7 @@ date_format = "Jan 2006"
 
     * Presented the recursive relations in MWQW and its exit probability 𝑝∞ from an automation perspective.
 
-  * Sensitive Measurements Through Matter Waves
+  Sensitive Measurements Through Matter Waves
 
     * Research on implementing double‑diffraction Bloch oscillation to cancel the phase perterbation when performing sensitive measurements.
   """
@@ -51,9 +48,8 @@ date_format = "Jan 2006"
   date_start = "2019-02-01"
   date_end = "2020-06-30"
   description = """
-  Projects include:
 
-  * Machine Learning in Material Design. [APCOM2019] [CTAM2020]
+  Machine Learning in Material Design. [APCOM2019] [CTAM2020]
 
     * Applied generative adversarial networks (GAN) to generate high fidelity microstructure images.
 
@@ -63,7 +59,7 @@ date_format = "Jan 2006"
 
     * Investigated an Bayesian‑optimization model that can fine‑tune GAN‑generated microstructure geometry through the raid labeling of rVGG.
 
-  * Construcrting Homogenous Materials Using Vomputational Methods.
+  Construcrting Homogenous Materials Using Vomputational Methods.
     
     * Implemented pruning protocol on 96 core CPUs to generate auxetic networks inspired by [Auxetic metamaterials from disordered networks](https://www.pnas.org/content/115/7/E1384)
 
