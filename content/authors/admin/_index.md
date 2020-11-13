@@ -28,8 +28,8 @@ education:
     institution: National Cheng Kung University (NCKU)
     year: 2020
   - course: BSc in Civil Engineering
-    institution: National Cheng Kung University (NCKU)
-    year: 2020
+    institution: 
+    year: 
 
 Courseworks:
 - Physcis (QM I&II, EM I&II, SS)
