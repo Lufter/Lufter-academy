@@ -26,6 +26,7 @@ education:
   courses:
   - course: BSc in Civil Engineering
     institution: National Cheng Kung University (NCKU)
+    * Physcis
     year: 2020
   - course:  Physcis (QM I&II, EM I&II, SS), Engineering, MSE, ECE
     institution: 
