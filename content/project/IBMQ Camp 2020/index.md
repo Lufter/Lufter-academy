@@ -1,5 +1,5 @@
 ---
-title: Predicting With Quantum Circuit
+title: Predicting With Quantum Circuits
 summary: Implemented 4qubit‑Ry gate circuits in predicting MNIST dataset with the learning curve converged after ten iterations.
 tags:
 - Quantum
