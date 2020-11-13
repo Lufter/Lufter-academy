@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
->The Shire once raised some valiant hearts, who seek to carry the burden and preserve their beloving world. I wish to have this courage in my future expedition to the temple of quantum science.
+>*The Shire once raised some valiant hearts, who seek to carry the burden and preserve their beloving world. I wish to have this courage in my future expedition to the temple of quantum science.*
 
 I earned my Bachelor’s degrees in Civil Engineering from National Cheng Kung University, Taiwan. I worked on my undergraduate research in Physics department with [Prof. Pei-Chen, Kuan](http://www.phys.ncku.edu.tw/db/pweb/teacher.php?user_id=170222) and AI MaterialLab with [Prof. Yun-Che, Wang](http://myweb.ncku.edu.tw/~yunche/). In addition, my coursework includes, <u>Quantum Physics I&II, Electromagnetism I&II, Solid State Physics, Quantum Information, Computational Theory, Engineering Electronics, and Material Science</u>.
 
