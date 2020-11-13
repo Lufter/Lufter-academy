@@ -42,7 +42,7 @@ date_format = "Jan 2006"
 
   * Machine Learning in Material Design. [[Link]](https://lufteracademy.netlify.app/project/microdesign/)[ [APCOM2019]](https://lufteracademy.netlify.app/talk/apcom2019/) [ [CTAM2020]](https://lufteracademy.netlify.app/publication/conference-paper/)
 
-  * Construcrting Homogenous Materials Using Computational Methods. [[Linnk]](https://lufteracademy.netlify.app/project/auxeticnet/)
+  * Construcrting Homogenous Materials Using Computational Methods. [[Link]](https://lufteracademy.netlify.app/project/auxeticnet/)
     
   """
 [design.background]
