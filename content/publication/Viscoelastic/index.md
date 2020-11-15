@@ -1,5 +1,5 @@
 ---
-title: "Design of Viscoelastic Two-Phase Materials Through Machine Deep Learning (In Preperation)"
+title: "Design of Viscoelastic Materials Through Machine Deep Learning (In Preperation)"
 authors:
 - Chun Wei Liu
 - Jyun‑Ping Wang
