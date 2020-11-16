@@ -1,6 +1,6 @@
 ---
 title: Multiple Way Quantum Walk
-summary: New obervation in quantum walk.
+summary: New obervations in quantum walk.
 tags:
 - Quantum
 date: "2019-09-27T00:00:00Z"
@@ -29,11 +29,11 @@ image:
 #slides: example
 ---
 
-We use computer to simulate quantum walks in optical systems. Our new walking protocol lead us to some intresting features that might never observed from previous studies. We then use schrödinger’s approach to explain this feature. Some characteristics in quantum walks were also discissed in our work, including exit probabilities, dispersion entries, and the recurrence relations. In the future, we will implent this work in optical lattice and find its applications in sesitive measutements.
+We use computer to simulate quantum walks in matterwave systems. Our new walking protocol lead us to some intresting features that might never observed from previous studies. We then use schrödinger’s approach to explain this feature. Some characteristics in quantum walks were also discissed in our work, including exit probabilities, dispersion entries, and the recurrence relations. In the future, we will implent this work in optical lattice and find its applications in sesitive measutements.
 
 What we've done:
 
-* Discussed the error tolerance when implementing MWQW in optical systems by using analytical and numerical methods.
+* Discussed the error tolerance when implementing MWQW in matterwave systems by using analytical and numerical methods.
 
 * Deployed a computer program that simulates and visualizes MWQW, which enhanced our working efficiency.
 
