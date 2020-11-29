@@ -1,5 +1,5 @@
 ---
-title: "Design of Viscoelastic Materials Through Machine Deep Learning (In Preperation)"
+title: "Machine learning of viscoelastic properties of 2D porous materials via deep neural network (In Preperation)"
 authors:
 - Chun Wei Liu
 - Jyun‑Ping Wang
