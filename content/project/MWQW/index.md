@@ -35,10 +35,12 @@ What we've done:
 
 * Discussed the error tolerance when implementing MWQW in matterwave systems by using analytical and numerical methods.
 
-* Deployed a computer program that simulates and visualizes MWQW, which enhanced our working efficiency.
+* Investigated the defects in previous asymptotic analysis methods when implementing Schroedinger’s approach to MWQW.
 
-* Improved the defects in previous asymptotic analysis methods when implementing Schrödinger’s approach to MWQW
+* Connected MWQW to quantum cellular automata through analysing the hypergeometric functions obtained from path integral methods.
 
-* Presented the recursive relations in MWQW and its exit probability 𝑝<sub>∞</sub>　from an automation perspective.
+* Proposed that MWQW is a quasi‑quantum walk which its exit probability 𝑝<sub>∞</sub> behaves between classical and quantum random walks.
 
- You can see all our results once we summit our works in the end of Dec 2020!
+* Discussed the potentail application of MWQW in simulating Dirac Cellular Automata (DCA) and Topological phases.
+
+ You can see all our results once we summit our works in the end of Apr 2021!

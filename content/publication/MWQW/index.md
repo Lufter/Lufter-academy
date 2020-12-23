@@ -65,4 +65,4 @@ slides: example
 ---
 Observations and analysis of one-dimention multiple way quantum walk. 
 For more information, please view [Multiple Way Quantum Walk](https://lufteracademy.netlify.app/project/mwqw/)
-(To be summit in Dec 2020!)
+(To be summit in Apr 2021!)
