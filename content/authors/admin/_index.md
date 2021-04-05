@@ -28,7 +28,6 @@ education:
     institution: National Cheng Kung University (NCKU)
     year: 2020
 
-  courses:
   - course: MS in Applied Physcis
     institution: Columbia University in the City of New York
     year: 2022
