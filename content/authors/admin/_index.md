@@ -25,9 +25,9 @@ interests:
 education:
   courses:
   
-  - course: MS in Applied Physcis
-    institution: Columbia University in the City of New York
-    year: 2022
+  #- course: MS in Applied Physcis
+  #  institution: Columbia University in the City of New York
+  #  year: 2022
 
   - course: BSc in Civil Engineering
     institution: National Cheng Kung University (NCKU)
