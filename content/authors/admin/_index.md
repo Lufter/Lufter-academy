@@ -18,16 +18,16 @@ bio: My research interests include quantum information, quantum computing, compu
 
 
 interests:
-- Quantum Computing
-- Quantum Simulation
+- Quantum Computing and Quantum Simulation
+- Ultracold Atoms
 - Computer Simulating Physics
 
 education:
   courses:
   
-  #- course: MS in Applied Physcis
-  #  institution: Columbia University in the City of New York
-  #  year: 2022
+  - course: MS in Applied Physcis
+    institution: Columbia University in the City of New York
+    year: 2022
 
   - course: BSc in Civil Engineering
     institution: National Cheng Kung University (NCKU)
