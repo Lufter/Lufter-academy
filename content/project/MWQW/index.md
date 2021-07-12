@@ -42,5 +42,3 @@ What we've done:
 * Proposed that MWQW is a quasi‑quantum walk which its exit probability 𝑝<sub>∞</sub> behaves between classical and quantum random walks.
 
 * Discussed the potentail application of MWQW in simulating Dirac Cellular Automata (DCA) and Topological phases.
-
- You can see all our results once we summit our works in the end of Apr 2021!
