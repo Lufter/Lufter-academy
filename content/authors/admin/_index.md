@@ -6,12 +6,12 @@ title: Lufter Chun Wei Liu
 superuser: true
 
 # Role/position
-role: Research Assistant, Matterwave Lab
+role: Student Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: National Cheng Kung University
-  url: "https://web.ncku.edu.tw/index.php?Lang=en"
+- name: Columbia University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include quantum information, quantum computing, computer simulating physics.
@@ -25,7 +25,7 @@ interests:
 education:
   courses:
   
-  - course: MS in Applied Physcis
+  - course: MS Candidate in Applied Physcis
     institution: Columbia University in the City of New York
     year: 2022
 
