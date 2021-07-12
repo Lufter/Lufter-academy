@@ -23,17 +23,7 @@ abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: We use computer to simulate quantum walks in matterwave systems. Our new walking protocol lead us to some intresting features that might never observed from previous studies. We then use schrödinger’s approach to explain this feature. Some characteristics in quantum walks were also discissed in our work, including exit probabilities, dispersion entries, and the recurrence relations. In the future, we will implent this work in optical lattice and find its applications in sesitive measutements.
-
-1. Discussed the error tolerance when implementing MWQW in matterwave systems by using analytical and numerical methods.
-
-2. Investigated the defects in previous asymptotic analysis methods when implementing Schroedinger’s approach to MWQW.
-
-3. Connected MWQW to quantum cellular automata through analysing the hypergeometric functions obtained from path integral methods.
-
-4. Proposed that MWQW is a quasi‑quantum walk which its exit probability 𝑝<sub>∞</sub> behaves between classical and quantum random walks.
-
-5. Discussed the potentail application of MWQW in simulating Dirac Cellular Automata (DCA) and Topological phases.
+summary: Observations and analysis of one-dimention multiple way quantum walk. 
 
 tags:
 - Source Themes
