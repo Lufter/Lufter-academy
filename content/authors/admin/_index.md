@@ -75,7 +75,7 @@ user_groups:
 
 >*The Shire once raised some valiant hearts, who seek to carry the burden and preserve their beloving world. I wish to have this courage in my future expedition to the temple of quantum science.*
 
-Currently, I am a graduate student in Applied Physics at Columbia University. And now I am working in WillLab with [Prof. Sebastian Will](https://www.will-lab.com/). I earned my Bachelor’s degrees in Civil Engineering from National Cheng Kung University (NCKU, Taiwan).  I worked on my undergraduate research in MatterwaveLab with [Prof. Pei-Chen, Kuan](https://thelm2005.wixsite.com/website) and AI MaterialLab with [Prof. Yun-Che, Wang](http://myweb.ncku.edu.tw/~yunche/). 
+I am a graduate student in Applied Physics at Columbia University. Currently, I am working in WillLab with [Prof. Sebastian Will](https://www.will-lab.com/). I earned my Bachelor’s degrees in Civil Engineering from National Cheng Kung University (NCKU, Taiwan).  I worked on my undergraduate research in MatterwaveLab with [Prof. Pei-Chen, Kuan](https://thelm2005.wixsite.com/website) and AI MaterialLab with [Prof. Yun-Che, Wang](http://myweb.ncku.edu.tw/~yunche/). 
 
 My previous research experiences involved [quantum walks (Theory and Experiments)](https://lufteracademy.netlify.app/project/mwqw/), [quantum machine learning](https://lufteracademy.netlify.app/project/ibmq-camp-2020/), [material microstructural design](https://lufteracademy.netlify.app/project/microdesign/). Now I am working on building quantum simulators with [programmable atomic tweezer arrays](https://lufteracademy.netlify.app/project/tweesr/).
 
