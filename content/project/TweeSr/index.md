@@ -9,7 +9,7 @@ date: "2019-07-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Lufter
+  caption: Photo by WillLab
   focal_point: Smart
 
 #links:
