@@ -20,11 +20,23 @@ date_format = "Jan 2006"
 [[experience]]
 
   title = "Research Assistant"
+  company = "Will Lab"
+  company_url = "https://www.will-lab.com/"
+  location = "New York, NY"
+  date_start = "2021-09-20"
+  date_end = ""
+  description = """
+  * Programmable Atomic Tweezer Arrays. [[Link]](https://lufteracademy.netlify.app/project/TweeSr/)
+  """
+
+[[experience]]
+
+  title = "Research Assistant"
   company = "Matterwave Lab"
   company_url = "https://thelm2005.wixsite.com/website"
   location = "NCKU, Taiwan"
   date_start = "2019-07-01"
-  date_end = ""
+  date_end = "2020-08-31"
   description = """
   * Multiple Way Quantum Walk (MWQW). [[Link]](https://lufteracademy.netlify.app/project/mwqw/)
 
