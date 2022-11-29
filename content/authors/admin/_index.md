@@ -58,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/ChunWeiLiu_cv_2022Spring.pdf
+  link: files/Chun_Wei_Liu_2022_CV_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "cl3762@columbia.edu"
@@ -79,4 +79,4 @@ I am a graduate student in Applied Physics at Columbia University. Currently, I 
 
 My previous research experiences involved [quantum walks (Theory and Experiments)](https://lufteracademy.netlify.app/project/mwqw/), [quantum machine learning](https://lufteracademy.netlify.app/project/ibmq-camp-2020/), [material microstructural design](https://lufteracademy.netlify.app/project/microdesign/). Now I am working on building quantum simulators with [programmable atomic tweezer arrays](https://lufteracademy.netlify.app/project/tweesr/).
 
-But I am passionate about conducting experiments and manipulating fancy instruments! With my background in science and engineering, it is always interesting to put theories into action. [Quantum simulators](https://quantum-journal.org/papers/q-2020-09-21-327/pdf/) is one of the topics that on my radar. I am also researching some qubit realization methods, including [transmon or fluxonium qubits](https://arxiv.org/pdf/1904.06560.pdf) or even [trapped-ion qubits](https://arxiv.org/pdf/1904.04178.pdf). My vision also open to physical implementations in quantum science such as building *hybrid quantum systems, quantum random access memory and the fabrication of quantum machines*.
+But I am passionate about conducting experiments and manipulating fancy instruments! With my background in science and engineering, it is always interesting to put theories into action. [Quantum simulators](https://quantum-journal.org/papers/q-2020-09-21-327/pdf/) is one of the topics that on my radar. 
