@@ -79,7 +79,7 @@ user_groups:
 
 I obtained my MS degree in Applied Physics from Columbia University, and holding a Bachelor’s degrees in Civil Engineering from National Cheng Kung University (NCKU, Taiwan). 
 
-I was the main developer of quantum control system of the "Programmable Strontium Tweezer Array" project at WillLab, Columbia University, under the supervision of [Prof. Sebastian Will](https://www.will-lab.com/). I developed the atom assembling system including harware and software control of sCMOS camera, AOD, AWG card, fiber optics, laser multiplexer, and rearranging algorithms. The above project can be seen in my [Portfolio](https://lufteracademy.netlify.app/static/files/Portfolio_to_General.pdf)
+I was the main developer of quantum control system of the "Programmable Strontium Tweezer Array" project at WillLab, Columbia University, under the supervision of [Prof. Sebastian Will](https://www.will-lab.com/). I developed the atom assembling system including harware and software control of sCMOS camera, AOD, AWG card, fiber optics, laser multiplexer, and rearranging algorithms. The above project can be seen in my [Portfolio](https://lufteracademy.netlify.app/files/Portfolio_to_General.pdf)
 
 Several undergraduate research experience also shape myself into a believer in neutral atom quantum computation, including working in MatterwaveLab with [Prof. Pei-Chen, Kuan](https://thelm2005.wixsite.com/website) and AI MaterialLab with [Prof. Yun-Che, Wang](http://myweb.ncku.edu.tw/~yunche/). 
 
