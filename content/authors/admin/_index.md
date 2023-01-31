@@ -52,9 +52,9 @@ social:
   icon_pack: fab
   link: https://github.com/Lufter
 
-#- icon: archive
-# icon_pack: fas
-# link: files/Portfolio_to_General.pdf
+- icon: archive
+  icon_pack: fas
+  link: static/files/Portfolio_to_General.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -76,8 +76,13 @@ user_groups:
 
 >*The Shire once raised some valiant hearts, who seek to carry the burden and preserve their beloving world. I wish to have this courage in my future expedition to the temple of quantum science.*
 
-I am obtained my MS degree in Applied Physics from Columbia University, and holding a Bachelor’s degrees in Civil Engineering from National Cheng Kung University (NCKU, Taiwan).I was working in WillLab with [Prof. Sebastian Will](https://www.will-lab.com/) on the Programmable Strontium Tweezer Array. I worked on my undergraduate research in MatterwaveLab with [Prof. Pei-Chen, Kuan](https://thelm2005.wixsite.com/website) and AI MaterialLab with [Prof. Yun-Che, Wang](http://myweb.ncku.edu.tw/~yunche/). 
+
+I obtained my MS degree in Applied Physics from Columbia University, and holding a Bachelor’s degrees in Civil Engineering from National Cheng Kung University (NCKU, Taiwan). 
+
+I was the main developer of quantum control system of the "Programmable Strontium Tweezer Array" project at WillLab, Columbia University, under the supervision of [Prof. Sebastian Will](https://www.will-lab.com/). I developed the atom assembling system including harware and software control of sCMOS camera, AOD, AWG card, fiber optics, laser multiplexer, and rearranging algorithms. The above project can be seen in my [Portfolio](https://www.will-lab.com/)
+
+Several undergraduate research experience also shape myself into a believer in neutral atom quantum computation, including working in MatterwaveLab with [Prof. Pei-Chen, Kuan](https://thelm2005.wixsite.com/website) and AI MaterialLab with [Prof. Yun-Che, Wang](http://myweb.ncku.edu.tw/~yunche/). 
 
 My previous research experiences involved [quantum walks (Theory and Experiments)](https://lufteracademy.netlify.app/project/mwqw/), [quantum machine learning](https://lufteracademy.netlify.app/project/ibmq-camp-2020/), [material microstructural design](https://lufteracademy.netlify.app/project/microdesign/). Now I am working on building quantum simulators with [programmable atomic tweezer arrays](https://lufteracademy.netlify.app/project/tweesr/).
 
-But I am passionate about conducting experiments and manipulating fancy instruments! With my background in science and engineering, it is always interesting to put theories into action. [Quantum simulators](https://quantum-journal.org/papers/q-2020-09-21-327/pdf/) is one of the topics that on my radar. 
+But I am passionate about conducting experiments and manipulating fancy instruments! With my background in science and engineering, it is always interesting to put theories into action.
