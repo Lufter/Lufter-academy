@@ -27,7 +27,7 @@ education:
   
   - course: MS Candidate in Applied Physcis
     institution: Columbia University in the City of New York
-    year: 2022
+    year: 2023
 
   - course: BSc in Civil Engineering
     institution: National Cheng Kung University (NCKU)
@@ -51,14 +51,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Lufter
-#- icon: archive
-#  icon_pack: fas
-#  link: https://lufter.github.io/
+
+- icon: archive
+ icon_pack: fas
+ link: files/Portfolio_to_General.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/Chun_Wei_Liu_2022_CV_resume.pdf
+  link: files/Chun_Wei_Liu_2023_CV_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "cl3762@columbia.edu"
@@ -75,7 +76,7 @@ user_groups:
 
 >*The Shire once raised some valiant hearts, who seek to carry the burden and preserve their beloving world. I wish to have this courage in my future expedition to the temple of quantum science.*
 
-I am a graduate student in Applied Physics at Columbia University. Currently, I am working in WillLab with [Prof. Sebastian Will](https://www.will-lab.com/). I earned my Bachelor’s degrees in Civil Engineering from National Cheng Kung University (NCKU, Taiwan).  I worked on my undergraduate research in MatterwaveLab with [Prof. Pei-Chen, Kuan](https://thelm2005.wixsite.com/website) and AI MaterialLab with [Prof. Yun-Che, Wang](http://myweb.ncku.edu.tw/~yunche/). 
+I am obtained my MS degree in Applied Physics from Columbia University, and holding a Bachelor’s degrees in Civil Engineering from National Cheng Kung University (NCKU, Taiwan).I was working in WillLab with [Prof. Sebastian Will](https://www.will-lab.com/) on the Programmable Strontium Tweezer Array. I worked on my undergraduate research in MatterwaveLab with [Prof. Pei-Chen, Kuan](https://thelm2005.wixsite.com/website) and AI MaterialLab with [Prof. Yun-Che, Wang](http://myweb.ncku.edu.tw/~yunche/). 
 
 My previous research experiences involved [quantum walks (Theory and Experiments)](https://lufteracademy.netlify.app/project/mwqw/), [quantum machine learning](https://lufteracademy.netlify.app/project/ibmq-camp-2020/), [material microstructural design](https://lufteracademy.netlify.app/project/microdesign/). Now I am working on building quantum simulators with [programmable atomic tweezer arrays](https://lufteracademy.netlify.app/project/tweesr/).
 
